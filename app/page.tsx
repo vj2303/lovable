@@ -83,7 +83,7 @@ export default function ProjectsPage() {
 function Header() {
   return (
     <div className="flex items-center justify-between">
-      <h1 className="font-bold text-3xl">Lovable Clone</h1>
+      {/* <h1 className="font-bold text-3xl">Lovable Clone</h1> */}
       <ThemeToggle />
     </div>
   )

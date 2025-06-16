@@ -4,9 +4,9 @@ import { ThemeProvider } from '@/components/theme-provider'
 import { Toaster } from '@/components/ui/sonner'
 
 export const metadata: Metadata = {
-  title: 'Lovable Clone',
+  title: '',
   description:
-    'A functional Lovable clone built by Yusuf in less than 24hrs using vibe-coding with v0+cursor',
+    '',
   icons: {
     icon: '/favicon.ico',
   },
